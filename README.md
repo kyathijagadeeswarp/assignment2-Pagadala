@@ -31,3 +31,7 @@ Chess is a board game between two players. It is sometimes called international 
   |UK          |Tourism         |2months
   |Switzerland |Climate         |2months
   
+  ***
+  # PITHY QUOTES
+  >"If you want to shine like a sun, first burn like a sun." - ***APJ Abdul Kalam***
+  >"Success is not final; failure is not fatal: It is the courage to continue that counts." - ***Winston S. Churchill***
