@@ -25,6 +25,7 @@ Chess is a board game between two players. It is sometimes called international 
   # TABLES CREATION
   In this table we will be showing the different countries and reason of visit and plan to visit those countries.
   |Country     |Reason of visit |No of Days
+  |----------- |----------------|-------
   |India       |Culture         |3months
   |US          |Money           |2months
   |UK          |Tourism         |2months
