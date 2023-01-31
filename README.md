@@ -36,6 +36,7 @@ Chess is a board game between two players. It is sometimes called international 
   # PITHY QUOTES
   >"If you want to shine like a sun, first burn like a sun." - ***APJ Abdul Kalam***
   >"Success is not final; failure is not fatal: It is the courage to continue that counts." - ***Winston S. Churchill***
+  # Code Fencing
 >How can I display a list of folders on a local webpage?
 [Click here](https://stackoverflow.com/questions/47762913/how-can-i-display-a-list-of-folders-on-a-local-webpage-by-only-using-html-and-ja)
 
