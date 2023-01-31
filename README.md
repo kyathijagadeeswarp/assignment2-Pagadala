@@ -21,3 +21,5 @@ Chess is a board game between two players. It is sometimes called international 
 
   Now go to the AboutMe link.
   [please click here](https://github.com/kyathijagadeeswarp/assignment2-Pagadala/blob/main/AboutMe.md)
+  ---
+  # TABLES CREATION
